@@ -31,14 +31,5 @@
         <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache+kafka&logoColor=white"/>
       </p>
     </td>
-    
-    <td width="50%" valign="top" align="center">
-      <h3>📊 Статистика</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=baileyseye&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" width="100%"/>
-      <br>
-      <a href="mailto:baileyseye@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
   </tr>
 </table>
