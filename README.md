@@ -47,7 +47,6 @@
 
 <hr style="border: 0; border-top: 1px dashed #30363d; margin: 40px 10%;">
 
-<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileyseye&theme=github_dark" alt="Profile Summary" width="700"/>
