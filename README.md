@@ -47,7 +47,6 @@
 
 <hr style="border: 0; border-top: 1px dashed #30363d; margin: 40px 10%;">
 
-<h3 align="center">📊 Активность и вклад</h3>
 <br>
 
 <p align="center">
