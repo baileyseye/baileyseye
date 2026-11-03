@@ -43,10 +43,7 @@
   </tr>
 </table>
 
-<br>
-
-<hr style="border: 0; border-top: 1px dashed #30363d; margin: 40px 10%;">
-
+<hr style="border: 0; border-top: 1px dashed #30363d; margin: 32px 10%;">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileyseye&theme=github_dark" alt="Profile Summary" width="700"/>
