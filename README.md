@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+"fix+typo";git+push+--force;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;public+void+fixBugs()+%7B;++++sudo+make+me+a+sandwich;++++//+TODO:+добавить+%7D;%7D" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme;git+commit+-m+fix;git+push+--force;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;public+void+fixBugs()+%7B;sudo+make+me+a+sandwich;//+TODO:+add+closing+brace...;%7D" alt="Typing animation"/>
 </p>
 
 <br>
