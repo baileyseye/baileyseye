@@ -1,3 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme..." alt="typing"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?..."/></p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/21809120-9dba-4571-ba86-c3e06805e33b" width="720"/>
+  <br/><sub>StackOverflowError: main() зовёт main() ☕</sub>
+</div>
+
+<p align="center">бейджи…</p>
+
+---
+
+> консольный whoami
+
+## 📊
+статистика…
