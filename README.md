@@ -2,13 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Initializing+Filyas+Profile...;Loading+Spring+Context...;Started+Application+in+0.42s;Compiling...+(please+wait);StackOverflowError:+joke+too+deep;Fixing+bugs+before+they+exist...;Deploying+to+prod+on+Friday...;It+works+on+my+machine!;Resolving+circular+dependencies...;Explaining+code+to+rubber+duck...;Caffeine+level:+CRITICAL;private+static+void+main()" alt="Boot sequence"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/21809120-9dba-4571-ba86-c3e06805e33b" 
-    alt="Carbon Code Snippet" 
-    width="700"
-  />
-</p>
+<img width="1034" height="522" alt="carbon" src="https://github.com/user-attachments/assets/c9e9c9f7-d56a-4689-b2db-cdc510e6505d" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+fix+typo;git+push+--force;sudo+apt-get+install+motivation;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;while(true)+{+eat();+code();+sleep();+};sudo+make+me+a+sandwich;http://localhost:8080;npm+install+(please+wait...)" alt="Typing animation"/>
