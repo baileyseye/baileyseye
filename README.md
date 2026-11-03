@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+fix+typo;git+push+--force;sudo+apt-get+install+motivation;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;while(true)+{+eat();+code();+sleep();+};sudo+make+me+a+sandwich;http://localhost:8080;npm+install+(please+wait...)" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+fix+typo;git+push+--force;sudo+apt-get+install+motivation;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;{;);sudo+make+me+a+sandwich;http://localhost:8080;npm+install+(please+wait...)" alt="Typing animation"/>
 </p>
 
 <br>
@@ -42,3 +42,7 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileyseye&theme=github_dark" alt="Profile Summary"/>
+</p> 
