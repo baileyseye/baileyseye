@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Initializing+Filyas+Profile...;Loading+Spring+Context...;Started+Application+in+0.42s;Compiling...+(please+wait);StackOverflowError:+joke+too+deep;Fixing+bugs+before+they+exist...;Deploying+to+prod+on+Friday...;It+works+on+my+machine!;Resolving+circular+dependencies...;Explaining+code+to+rubber+duck...;Caffeine+level:+CRITICAL;private+static+void+main()" alt="Boot sequence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Initializing+baileyseye+Profile...;Loading+Spring+Context...;Started+Application+in+0.42s;Compiling...+(please+wait);StackOverflowError:+joke+too+deep;Fixing+bugs+before+they+exist...;Deploying+to+prod+on+Friday...;It+works+on+my+machine!;Resolving+circular+dependencies...;Explaining+code+to+rubber+duck...;Caffeine+level:+CRITICAL;private+static+void+main()" alt="Boot sequence"/>
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+fix+typo;git+push+--force;sudo+apt-get+install+motivation;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;{;);sudo+make+me+a+sandwich;http://localhost:8080;npm+install+(please+wait...)" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=java+-jar+me.jar;--spring.profiles.active=coffee;recursively+writing+readme...;git+commit+-m+"fix+typo";git+push+--force;docker+run+--rm+-it+myself;rm+-rf+/impostor_syndrome;public+void+fixBugs()+%7B;++++sudo+make+me+a+sandwich;++++//+TODO:+добавить+%7D;%7D" alt="Typing animation"/>
 </p>
 
 <br>
 
-<hr>
+<hr style="border: 0; border-top: 1px solid #30363d; margin: 24px 10%;">
 
 <table>
   <tr>
@@ -43,6 +43,17 @@
   </tr>
 </table>
 
+<br>
+
+<hr style="border: 0; border-top: 1px dashed #30363d; margin: 40px 10%;">
+
+<h3 align="center">📊 Активность и вклад</h3>
+<br>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileyseye&theme=github_dark" alt="Profile Summary"/>
-</p> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baileyseye&theme=github_dark" alt="Profile Summary" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baileyseye&theme=dark&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="Streak Stats" width="400"/>
+</p>
