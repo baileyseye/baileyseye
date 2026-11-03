@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Initializing+Filyas+Profile...;Loading+Spring+Context...;Started+Application+in+0.42s;Compiling...+(please+wait);StackOverflowError:+joke+too+deep;Fixing+bugs+before+they+exist...;Deploying+to+prod+on+Friday...;It+works+on+my+machine!;Resolving+circular+dependencies...;Explaining+code+to+rubber+duck...;Caffeine+level:+CRITICAL;public+static+void+main()" alt="Boot sequence"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=500&lines=Initializing+Filyas+Profile...;Loading+Spring+Context...;Started+Application+in+0.42s;Compiling...+(please+wait);StackOverflowError:+joke+too+deep;Fixing+bugs+before+they+exist...;Deploying+to+prod+on+Friday...;It+works+on+my+machine!;Resolving+circular+dependencies...;Explaining+code+to+rubber+duck...;Caffeine+level:+CRITICAL;private+static+void+main()" alt="Boot sequence"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,11 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
         <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache+kafka&logoColor=white"/>
